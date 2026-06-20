@@ -19,6 +19,6 @@ fn main() {
     
     mixer.add(source);
 
-    std::thread::sleep(Duration::from_secs(1 * 60 + 4)); // 4 min
+    std::thread::sleep(Duration::from_secs(1 * 60 + 4)); // 1.04 min
 
 }
